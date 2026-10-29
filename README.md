@@ -130,6 +130,15 @@ The learning flow explores how students can browse learning content, access mult
 <img width="184" height="347" alt="image" src="https://github.com/user-attachments/assets/fb8b78ef-e9a0-4387-a55a-8dcb7cbea2e1" />
 
 
+<img width="189" height="354" alt="image" src="https://github.com/user-attachments/assets/b276e07f-6065-4ea9-85f5-ac0836e9cc12" />
+<img width="187" height="354" alt="image" src="https://github.com/user-attachments/assets/b912b268-278f-4efa-b0f5-5435545e4912" />
+<img width="190" height="358" alt="image" src="https://github.com/user-attachments/assets/8537e6ef-6307-4463-ab94-4d744d99ca62" />
+
+
+<img width="179" height="335" alt="image" src="https://github.com/user-attachments/assets/5d471379-5457-4aee-a5d6-03b88f220db7" />
+<img width="182" height="337" alt="image" src="https://github.com/user-attachments/assets/5bc8c9c6-f176-4353-a72f-401e600f0ee4" />
+<img width="179" height="336" alt="image" src="https://github.com/user-attachments/assets/7baeec4b-2a02-43ab-b3a3-ae28cd64e80a" />
+
 
 
 
