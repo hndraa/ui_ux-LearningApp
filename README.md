@@ -117,13 +117,21 @@ The initial screens introduce the application and provide entry points for stude
 
 The dashboard concept organizes learning content and application features in a visual mobile interface.
 
-![CS Belajar Student Dashboard](screenshots/student-dashboard.png)
+<img width="304" height="590" alt="image" src="https://github.com/user-attachments/assets/866c09c1-0291-40c4-a3ae-e3c564a01704" />
+<img width="308" height="592" alt="image" src="https://github.com/user-attachments/assets/76d675e5-31d6-41f0-b342-c2c491ee7f7b" />
+
 
 ### 3.3 Learning Experience
 
 The learning flow explores how students can browse learning content, access multimedia materials, and move between learning activities.
 
-![CS Belajar Learning Flow](screenshots/learning-flow.png)
+<img width="185" height="347" alt="image" src="https://github.com/user-attachments/assets/964950c8-8136-4a8e-b895-19e8f3817d10" />
+<img width="185" height="345" alt="image" src="https://github.com/user-attachments/assets/c40437c0-3dae-457f-9f1c-6746d9efe499" />
+<img width="184" height="347" alt="image" src="https://github.com/user-attachments/assets/fb8b78ef-e9a0-4387-a55a-8dcb7cbea2e1" />
+
+
+
+
 
 ### 3.4 Mode Security
 
@@ -187,15 +195,12 @@ ui_ux-LearningApp/
 └── Documentation.pdf
 ```
 
-The structure above is a recommended documentation layout. Include only the files that are actually available and permitted for public sharing.
-
 ### Access the Design
 
 **Figma Design File:** [CS BELAJAR](https://www.figma.com/design/FtzXndxV2lMDq7FCdyTs05/CS-Belajar?node-id=0-1&t=9kUEuRLUE3WeOmYR-1)
 
 **Interactive Prototype:** [PROTOTYPE CS BELAJAR](https://www.figma.com/proto/FtzXndxV2lMDq7FCdyTs05/CS-Belajar?node-id=124-1432&p=f&t=uMZzEd0ogm9FC1EW-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=124%3A1432&show-proto-sidebar=1)
 
-Replace these placeholders with the actual links. If only static mockups are available, link to the design file rather than claiming an interactive prototype exists.
 
 ### How to Review
 
