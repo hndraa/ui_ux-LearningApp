@@ -148,13 +148,23 @@ Mode Security introduces a focused study-session experience with study and break
 
 The interface concept supports predefined or adjustable study durations, with breaks arranged as part of the study cycle.
 
-![CS Belajar Mode Security](screenshots/mode-security.png)
+<img width="251" height="482" alt="image" src="https://github.com/user-attachments/assets/e275f83c-80bc-4666-a0c6-973d3e4f94c0" />
+<img width="250" height="479" alt="image" src="https://github.com/user-attachments/assets/25ce3a39-419c-4a4b-b9b6-fb72c56746ab" />
+<img width="250" height="487" alt="image" src="https://github.com/user-attachments/assets/4cf50897-3226-4dd0-bef4-9da0d5a43951" />
+<img width="246" height="470" alt="image" src="https://github.com/user-attachments/assets/fe6b2288-afe8-4788-96e6-a6d101ceca4c" />
+<img width="243" height="465" alt="image" src="https://github.com/user-attachments/assets/8b2ae2ce-f85d-4aba-a758-c1b7a0afe9c0" />
+<img width="237" height="457" alt="image" src="https://github.com/user-attachments/assets/c653188a-a092-4610-bf63-d5e90b132765" />
+
 
 ### 3.5 Inclusive Learning for SLB Students
 
 The SLB interface concept uses simplified navigation and larger interface elements to reduce complexity. The proposal also identifies TalkBack support as an accessibility consideration.
 
-![CS Belajar Inclusive Learning Interface](screenshots/inclusive-learning.png)
+<img width="203" height="381" alt="image" src="https://github.com/user-attachments/assets/5d0024df-917c-4cc9-b9fb-6cc8143a806d" />
+<img width="199" height="373" alt="image" src="https://github.com/user-attachments/assets/6419f218-7a5c-4aa0-afc8-14f4ba51edfa" />
+<img width="204" height="376" alt="image" src="https://github.com/user-attachments/assets/b58fb411-d83f-436d-9296-0ff9f0bb7d77" />
+<img width="199" height="378" alt="image" src="https://github.com/user-attachments/assets/db9aeff8-165e-44a4-9bc1-586b0618ba2d" />
+
 
 ### Insights
 
